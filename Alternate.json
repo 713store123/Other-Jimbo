@@ -4,7 +4,7 @@
 	"author": ["H"],
 	"description": "Adds a new joker: 'Alternate Jimbo' which is a parallel to Joker. It gives 20 chips",
 	"prefix": "alt",
-	"main_file": "Skibidi.lua",
+	"main_file": "Other.lua",
 	"priority": -69,
 	"badge_colour": "A61A1F",
 	"badge_text_colour": "FFFFFF",
